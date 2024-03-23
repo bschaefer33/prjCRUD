@@ -1,0 +1,36 @@
+/* style.css - Styling for index.php
+    Class: CSC 235 Server Side Development
+    Week 1: prjWebForm
+    Student Name: Brittany Schaefer
+    Written: 4/3/22
+    Revised: 
+*/
+/*Body*/
+body{
+    background-color: rgb(193, 190, 190);
+}
+/*headings*/
+h1{
+    color: rgb(90, 3, 90);
+    font-size: xx-large;
+    text-align: center;
+}
+/*paragraph*/
+p{
+    font-weight: normal;
+    font-size: medium;
+}
+/*table*/
+table{
+    border: 2px solid black;
+    border-collapse: collapse;
+    
+}
+th{
+    border: 2px solid black;
+    padding: 1em;
+    background-color: palevioletred;
+}
+td{
+    border: 2px solid black;
+}
